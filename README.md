@@ -6,7 +6,7 @@ Self-taught software developer, Computer Science student, and U.S. Air Force vet
 
 **ScholarMaxxing** ([scholarmaxxing.com](https://scholarmaxxing.com)). An AI app that turns lecture recordings into notes, flashcards, practice tests, and study audio. Live, in production, with paying subscribers. Built with Next.js, Supabase, and Stripe.
 
-**STACK**. A charge-nurse room-assignment balancer for hospital floors, currently in clinical pilot. Built with React and Vite.
+**STACK** ([stacktoolrn.com](https://www.stacktoolrn.com/)). A charge-nurse room-assignment balancer for hospital floors, currently in clinical pilot. Built with React and Vite.
 
 **Sports analytics platform**. A paywalled NFL analytics site that shows the full statistical derivation behind every probability it publishes, not just the number. Next.js/TypeScript frontend with a Python modeling and backtesting pipeline. See [nates-sports-statistics](https://github.com/richard-hargrave/nates-sports-statistics).
 
@@ -20,4 +20,4 @@ Next.js, React, Node.js, Python, PostgreSQL/Supabase, Stripe, Tailwind CSS.
 
 ## Contact
 
-richarddev@scholarmaxxing.com
+richardrhargrave@gmail.com
